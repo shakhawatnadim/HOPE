@@ -1,15 +1,22 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Controller.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Co2controller.cs">
     <Files>
-      <File FileName="Assets\Scripts\EarthScript.cs" Line="21" Column="22" />
-      <File FileName="Assets\Scripts\Controller.cs" Line="31" Column="51" />
-      <File FileName="Assets\CanvasScript.cs" Line="30" Column="9" />
-      <File FileName="Assets\RotateEarthW2E.cs" Line="8" Column="31" />
+      <File FileName="Assets/Scripts/GraceLaunchScript.cs" Line="78" Column="22" />
+      <File FileName="Assets/FollowRocket.cs" Line="18" Column="5" />
+      <File FileName="Assets/IceController.cs" Line="112" Column="30" />
+      <File FileName="Assets/IceMassGreenlandPrediction.cs" Line="82" Column="4" />
+      <File FileName="Assets/CanvasControls.cs" Line="1" Column="19" />
+      <File FileName="Assets/SeaController.cs" Line="58" Column="48" />
+      <File FileName="Assets/Co2controller.cs" Line="21" Column="1" />
+      <File FileName="Assets/Co2CanvasController.cs" Line="51" Column="56" />
+      <File FileName="Assets/SeaCanvasControl.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="H:\Spaceapps2017\Hope -Hi altitude Oceanography and Precipitation of Earth\HOPE\Assets\Scripts\GraceLaunchScript.cs" line="28" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

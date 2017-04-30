@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 52dd63f9fd10cf6418d88e17783d56c6
+timeCreated: 1493289640
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Topo
+  fontNames:
+  - Topo
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

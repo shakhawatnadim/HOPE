@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b12da51416393c441a61f175809a7f43
+timeCreated: 1493292339
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: PartyBalloons
+  fontNames:
+  - PartyBalloons
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
